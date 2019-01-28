@@ -1,0 +1,1505 @@
+--------Top 10 subset accuracies: --------
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : False
+stemming : True
+Number of features: 458967
+Feature extraction time: 7.11199998856 seconds
+Training time: 0.791s
+Test time:  0.132s
+
+Subset accuracy:   0.257
+Label based score:   0.521
+Micro-averaged metrics: 
+Precision:   0.728
+Recall:   0.552
+F_measure:   0.628
+Macro-averaged metrics: 
+Precision:   0.698
+Recall:   0.515
+F_measure:   0.588
+Weighted-average metrics: 
+Precision:   0.720
+Recall:   0.552
+F_measure:   0.621
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 448032
+Feature extraction time: 6.68499994278 seconds
+Training time: 0.808s
+Test time:  0.132s
+
+Subset accuracy:   0.258
+Label based score:   0.524
+Micro-averaged metrics: 
+Precision:   0.734
+Recall:   0.558
+F_measure:   0.634
+Macro-averaged metrics: 
+Precision:   0.717
+Recall:   0.511
+F_measure:   0.591
+Weighted-average metrics: 
+Precision:   0.727
+Recall:   0.558
+F_measure:   0.627
+
+
+Model specs:
+Classifier: Passive Aggressive
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 410380
+Feature extraction time: 6.15999984741 seconds
+Training time: 0.922s
+Test time:  0.119s
+
+Subset accuracy:   0.258
+Label based score:   0.480
+Micro-averaged metrics: 
+Precision:   0.843
+Recall:   0.464
+F_measure:   0.599
+Macro-averaged metrics: 
+Precision:   0.823
+Recall:   0.375
+F_measure:   0.494
+Weighted-average metrics: 
+Precision:   0.834
+Recall:   0.464
+F_measure:   0.582
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 450569
+Feature extraction time: 7.67199993134 seconds
+Training time: 0.907s
+Test time:  0.143s
+
+Subset accuracy:   0.259
+Label based score:   0.522
+Micro-averaged metrics: 
+Precision:   0.734
+Recall:   0.554
+F_measure:   0.631
+Macro-averaged metrics: 
+Precision:   0.705
+Recall:   0.514
+F_measure:   0.588
+Weighted-average metrics: 
+Precision:   0.726
+Recall:   0.554
+F_measure:   0.624
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 411579
+Feature extraction time: 6.38499999046 seconds
+Training time: 1.043s
+Test time:  0.156s
+
+Subset accuracy:   0.259
+Label based score:   0.520
+Micro-averaged metrics: 
+Precision:   0.735
+Recall:   0.547
+F_measure:   0.627
+Macro-averaged metrics: 
+Precision:   0.701
+Recall:   0.508
+F_measure:   0.583
+Weighted-average metrics: 
+Precision:   0.728
+Recall:   0.547
+F_measure:   0.619
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 410380
+Feature extraction time: 6.16700005531 seconds
+Training time: 0.788s
+Test time:  0.122s
+
+Subset accuracy:   0.259
+Label based score:   0.524
+Micro-averaged metrics: 
+Precision:   0.734
+Recall:   0.554
+F_measure:   0.631
+Macro-averaged metrics: 
+Precision:   0.707
+Recall:   0.512
+F_measure:   0.586
+Weighted-average metrics: 
+Precision:   0.726
+Recall:   0.554
+F_measure:   0.623
+
+
+Model specs:
+Classifier: Passive Aggressive
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 411579
+Feature extraction time: 6.05999994278 seconds
+Training time: 0.878s
+Test time:  0.113s
+
+Subset accuracy:   0.259
+Label based score:   0.483
+Micro-averaged metrics: 
+Precision:   0.846
+Recall:   0.465
+F_measure:   0.600
+Macro-averaged metrics: 
+Precision:   0.868
+Recall:   0.379
+F_measure:   0.499
+Weighted-average metrics: 
+Precision:   0.845
+Recall:   0.465
+F_measure:   0.583
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 408703
+Feature extraction time: 6.27900004387 seconds
+Training time: 0.718s
+Test time:  0.126s
+
+Subset accuracy:   0.260
+Label based score:   0.523
+Micro-averaged metrics: 
+Precision:   0.739
+Recall:   0.553
+F_measure:   0.632
+Macro-averaged metrics: 
+Precision:   0.721
+Recall:   0.508
+F_measure:   0.586
+Weighted-average metrics: 
+Precision:   0.732
+Recall:   0.553
+F_measure:   0.624
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 407507
+Feature extraction time: 6.65499997139 seconds
+Training time: 0.745s
+Test time:  0.127s
+
+Subset accuracy:   0.261
+Label based score:   0.521
+Micro-averaged metrics: 
+Precision:   0.745
+Recall:   0.545
+F_measure:   0.630
+Macro-averaged metrics: 
+Precision:   0.714
+Recall:   0.505
+F_measure:   0.584
+Weighted-average metrics: 
+Precision:   0.736
+Recall:   0.545
+F_measure:   0.621
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 451696
+Feature extraction time: 6.68000006676 seconds
+Training time: 0.778s
+Test time:  0.124s
+
+Subset accuracy:   0.261
+Label based score:   0.525
+Micro-averaged metrics: 
+Precision:   0.723
+Recall:   0.562
+F_measure:   0.633
+Macro-averaged metrics: 
+Precision:   0.692
+Recall:   0.516
+F_measure:   0.585
+Weighted-average metrics: 
+Precision:   0.716
+Recall:   0.562
+F_measure:   0.626
+--------Top 10 label based accuracies: --------
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : False
+stemming : False
+Number of features: 1086761
+Feature extraction time: 14.0620000362 seconds
+Training time: 1.682s
+Test time:  0.180s
+
+Subset accuracy:   0.228
+Label based score:   0.528
+Micro-averaged metrics: 
+Precision:   0.648
+Recall:   0.623
+F_measure:   0.635
+Macro-averaged metrics: 
+Precision:   0.613
+Recall:   0.585
+F_measure:   0.594
+Weighted-average metrics: 
+Precision:   0.648
+Recall:   0.623
+F_measure:   0.631
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 438621
+Feature extraction time: 6.58899998665 seconds
+Training time: 0.736s
+Test time:  0.125s
+
+Subset accuracy:   0.251
+Label based score:   0.528
+Micro-averaged metrics: 
+Precision:   0.719
+Recall:   0.573
+F_measure:   0.637
+Macro-averaged metrics: 
+Precision:   0.700
+Recall:   0.526
+F_measure:   0.593
+Weighted-average metrics: 
+Precision:   0.713
+Recall:   0.573
+F_measure:   0.631
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 1025692
+Feature extraction time: 12.7090001106 seconds
+Training time: 1.618s
+Test time:  0.159s
+
+Subset accuracy:   0.232
+Label based score:   0.529
+Micro-averaged metrics: 
+Precision:   0.652
+Recall:   0.618
+F_measure:   0.634
+Macro-averaged metrics: 
+Precision:   0.608
+Recall:   0.582
+F_measure:   0.591
+Weighted-average metrics: 
+Precision:   0.651
+Recall:   0.618
+F_measure:   0.631
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : True
+remove punctuation : False
+stemming : True
+Number of features: 1108219
+Feature extraction time: 13.2100000381 seconds
+Training time: 1.701s
+Test time:  0.173s
+
+Subset accuracy:   0.233
+Label based score:   0.529
+Micro-averaged metrics: 
+Precision:   0.660
+Recall:   0.616
+F_measure:   0.637
+Macro-averaged metrics: 
+Precision:   0.621
+Recall:   0.573
+F_measure:   0.594
+Weighted-average metrics: 
+Precision:   0.658
+Recall:   0.616
+F_measure:   0.634
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 1077927
+Feature extraction time: 14.8970000744 seconds
+Training time: 1.796s
+Test time:  0.190s
+
+Subset accuracy:   0.235
+Label based score:   0.529
+Micro-averaged metrics: 
+Precision:   0.653
+Recall:   0.620
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.620
+Recall:   0.576
+F_measure:   0.593
+Weighted-average metrics: 
+Precision:   0.651
+Recall:   0.620
+F_measure:   0.633
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 976882
+Feature extraction time: 12.0629999638 seconds
+Training time: 1.519s
+Test time:  0.158s
+
+Subset accuracy:   0.231
+Label based score:   0.530
+Micro-averaged metrics: 
+Precision:   0.651
+Recall:   0.622
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.607
+Recall:   0.592
+F_measure:   0.596
+Weighted-average metrics: 
+Precision:   0.652
+Recall:   0.622
+F_measure:   0.633
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 979117
+Feature extraction time: 11.8650000095 seconds
+Training time: 1.481s
+Test time:  0.153s
+
+Subset accuracy:   0.239
+Label based score:   0.533
+Micro-averaged metrics: 
+Precision:   0.657
+Recall:   0.625
+F_measure:   0.641
+Macro-averaged metrics: 
+Precision:   0.616
+Recall:   0.588
+F_measure:   0.599
+Weighted-average metrics: 
+Precision:   0.655
+Recall:   0.625
+F_measure:   0.637
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 992760
+Feature extraction time: 12.378000021 seconds
+Training time: 1.506s
+Test time:  0.160s
+
+Subset accuracy:   0.240
+Label based score:   0.534
+Micro-averaged metrics: 
+Precision:   0.666
+Recall:   0.618
+F_measure:   0.641
+Macro-averaged metrics: 
+Precision:   0.634
+Recall:   0.581
+F_measure:   0.602
+Weighted-average metrics: 
+Precision:   0.665
+Recall:   0.618
+F_measure:   0.638
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 1080132
+Feature extraction time: 12.9900000095 seconds
+Training time: 1.640s
+Test time:  0.168s
+
+Subset accuracy:   0.240
+Label based score:   0.537
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.627
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.636
+Recall:   0.586
+F_measure:   0.605
+Weighted-average metrics: 
+Precision:   0.661
+Recall:   0.627
+F_measure:   0.640
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 990497
+Feature extraction time: 12.4359998703 seconds
+Training time: 1.549s
+Test time:  0.165s
+
+Subset accuracy:   0.244
+Label based score:   0.538
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.626
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.628
+Recall:   0.581
+F_measure:   0.602
+Weighted-average metrics: 
+Precision:   0.662
+Recall:   0.626
+F_measure:   0.642
+--------Top 10 precisions: --------
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-4 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 1576816
+Feature extraction time: 20.868999958 seconds
+Training time: 2.693s
+Test time:  0.739s
+
+Subset accuracy:   0.003
+Label based score:   0.006
+Micro-averaged metrics: 
+Precision:   0.958
+Recall:   0.005
+F_measure:   0.010
+Macro-averaged metrics: 
+Precision:   0.126
+Recall:   0.002
+F_measure:   0.004
+Weighted-average metrics: 
+Precision:   0.355
+Recall:   0.005
+F_measure:   0.010
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 1040765
+Feature extraction time: 14.8119997978 seconds
+Training time: 1.983s
+Test time:  0.659s
+
+Subset accuracy:   0.004
+Label based score:   0.008
+Micro-averaged metrics: 
+Precision:   0.958
+Recall:   0.007
+F_measure:   0.014
+Macro-averaged metrics: 
+Precision:   0.126
+Recall:   0.003
+F_measure:   0.005
+Weighted-average metrics: 
+Precision:   0.356
+Recall:   0.007
+F_measure:   0.013
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : False
+stemming : False
+Number of features: 1110851
+Feature extraction time: 13.618999958 seconds
+Training time: 1.910s
+Test time:  0.627s
+
+Subset accuracy:   0.002
+Label based score:   0.005
+Micro-averaged metrics: 
+Precision:   0.959
+Recall:   0.004
+F_measure:   0.009
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.001
+F_measure:   0.003
+Weighted-average metrics: 
+Precision:   0.360
+Recall:   0.004
+F_measure:   0.009
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-4 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 1598572
+Feature extraction time: 18.5400002003 seconds
+Training time: 2.507s
+Test time:  0.681s
+
+Subset accuracy:   0.003
+Label based score:   0.006
+Micro-averaged metrics: 
+Precision:   0.959
+Recall:   0.005
+F_measure:   0.010
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.002
+F_measure:   0.004
+Weighted-average metrics: 
+Precision:   0.357
+Recall:   0.005
+F_measure:   0.010
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 1093905
+Feature extraction time: 13.3499999046 seconds
+Training time: 1.844s
+Test time:  0.584s
+
+Subset accuracy:   0.002
+Label based score:   0.005
+Micro-averaged metrics: 
+Precision:   0.959
+Recall:   0.004
+F_measure:   0.009
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.002
+F_measure:   0.003
+Weighted-average metrics: 
+Precision:   0.358
+Recall:   0.004
+F_measure:   0.009
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 1007051
+Feature extraction time: 12.3459999561 seconds
+Training time: 1.701s
+Test time:  0.530s
+
+Subset accuracy:   0.004
+Label based score:   0.008
+Micro-averaged metrics: 
+Precision:   0.959
+Recall:   0.007
+F_measure:   0.014
+Macro-averaged metrics: 
+Precision:   0.126
+Recall:   0.003
+F_measure:   0.005
+Weighted-average metrics: 
+Precision:   0.356
+Recall:   0.007
+F_measure:   0.014
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-4 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 1645429
+Feature extraction time: 20.3589999676 seconds
+Training time: 2.674s
+Test time:  0.746s
+
+Subset accuracy:   0.003
+Label based score:   0.006
+Micro-averaged metrics: 
+Precision:   0.962
+Recall:   0.005
+F_measure:   0.009
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.002
+F_measure:   0.003
+Weighted-average metrics: 
+Precision:   0.358
+Recall:   0.005
+F_measure:   0.009
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-4 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 1674686
+Feature extraction time: 19.4809999466 seconds
+Training time: 2.617s
+Test time:  0.728s
+
+Subset accuracy:   0.003
+Label based score:   0.006
+Micro-averaged metrics: 
+Precision:   0.962
+Recall:   0.005
+F_measure:   0.010
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.002
+F_measure:   0.004
+Weighted-average metrics: 
+Precision:   0.358
+Recall:   0.005
+F_measure:   0.009
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 1112355
+Feature extraction time: 14.3740000725 seconds
+Training time: 1.986s
+Test time:  0.656s
+
+Subset accuracy:   0.002
+Label based score:   0.004
+Micro-averaged metrics: 
+Precision:   0.963
+Recall:   0.004
+F_measure:   0.008
+Macro-averaged metrics: 
+Precision:   0.127
+Recall:   0.001
+F_measure:   0.003
+Weighted-average metrics: 
+Precision:   0.359
+Recall:   0.004
+F_measure:   0.008
+
+
+Model specs:
+Classifier: NB w/ Multinomial
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 1025692
+Feature extraction time: 14.3120000362 seconds
+Training time: 1.893s
+Test time:  0.631s
+
+Subset accuracy:   0.004
+Label based score:   0.008
+Micro-averaged metrics: 
+Precision:   0.968
+Recall:   0.007
+F_measure:   0.013
+Macro-averaged metrics: 
+Precision:   0.128
+Recall:   0.002
+F_measure:   0.005
+Weighted-average metrics: 
+Precision:   0.361
+Recall:   0.007
+F_measure:   0.013
+--------Top 10 recalls: --------
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 2177132
+Feature extraction time: 25.9449999332 seconds
+Training time: 2.977s
+Test time:  0.190s
+
+Subset accuracy:   0.175
+Label based score:   0.505
+Micro-averaged metrics: 
+Precision:   0.562
+Recall:   0.687
+F_measure:   0.619
+Macro-averaged metrics: 
+Precision:   0.513
+Recall:   0.653
+F_measure:   0.570
+Weighted-average metrics: 
+Precision:   0.570
+Recall:   0.687
+F_measure:   0.620
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 2419336
+Feature extraction time: 26.620000124 seconds
+Training time: 3.229s
+Test time:  0.197s
+
+Subset accuracy:   0.177
+Label based score:   0.510
+Micro-averaged metrics: 
+Precision:   0.568
+Recall:   0.688
+F_measure:   0.622
+Macro-averaged metrics: 
+Precision:   0.526
+Recall:   0.642
+F_measure:   0.574
+Weighted-average metrics: 
+Precision:   0.574
+Recall:   0.688
+F_measure:   0.623
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 2373731
+Feature extraction time: 28.8770000935 seconds
+Training time: 3.416s
+Test time:  0.208s
+
+Subset accuracy:   0.156
+Label based score:   0.489
+Micro-averaged metrics: 
+Precision:   0.536
+Recall:   0.688
+F_measure:   0.602
+Macro-averaged metrics: 
+Precision:   0.481
+Recall:   0.657
+F_measure:   0.550
+Weighted-average metrics: 
+Precision:   0.550
+Recall:   0.688
+F_measure:   0.606
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : False
+Number of features: 2191806
+Feature extraction time: 24.8280000687 seconds
+Training time: 2.861s
+Test time:  0.171s
+
+Subset accuracy:   0.160
+Label based score:   0.496
+Micro-averaged metrics: 
+Precision:   0.545
+Recall:   0.689
+F_measure:   0.609
+Macro-averaged metrics: 
+Precision:   0.495
+Recall:   0.654
+F_measure:   0.558
+Weighted-average metrics: 
+Precision:   0.557
+Recall:   0.689
+F_measure:   0.613
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 2172768
+Feature extraction time: 24.9070000648 seconds
+Training time: 3.058s
+Test time:  0.176s
+
+Subset accuracy:   0.175
+Label based score:   0.509
+Micro-averaged metrics: 
+Precision:   0.565
+Recall:   0.689
+F_measure:   0.621
+Macro-averaged metrics: 
+Precision:   0.521
+Recall:   0.653
+F_measure:   0.576
+Weighted-average metrics: 
+Precision:   0.573
+Recall:   0.689
+F_measure:   0.622
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : False
+stemming : True
+Number of features: 2448594
+Feature extraction time: 27.9329998493 seconds
+Training time: 3.267s
+Test time:  0.214s
+
+Subset accuracy:   0.158
+Label based score:   0.494
+Micro-averaged metrics: 
+Precision:   0.542
+Recall:   0.691
+F_measure:   0.608
+Macro-averaged metrics: 
+Precision:   0.498
+Recall:   0.657
+F_measure:   0.562
+Weighted-average metrics: 
+Precision:   0.554
+Recall:   0.691
+F_measure:   0.611
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : False
+stemming : False
+Number of features: 2358763
+Feature extraction time: 27.0849997997 seconds
+Training time: 3.104s
+Test time:  0.197s
+
+Subset accuracy:   0.170
+Label based score:   0.504
+Micro-averaged metrics: 
+Precision:   0.557
+Recall:   0.691
+F_measure:   0.617
+Macro-averaged metrics: 
+Precision:   0.506
+Recall:   0.655
+F_measure:   0.569
+Weighted-average metrics: 
+Precision:   0.563
+Recall:   0.691
+F_measure:   0.618
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 2450395
+Feature extraction time: 28.9839999676 seconds
+Training time: 3.299s
+Test time:  0.208s
+
+Subset accuracy:   0.158
+Label based score:   0.496
+Micro-averaged metrics: 
+Precision:   0.546
+Recall:   0.692
+F_measure:   0.610
+Macro-averaged metrics: 
+Precision:   0.502
+Recall:   0.650
+F_measure:   0.563
+Weighted-average metrics: 
+Precision:   0.556
+Recall:   0.692
+F_measure:   0.613
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 2360101
+Feature extraction time: 28.3199999332 seconds
+Training time: 3.296s
+Test time:  0.204s
+
+Subset accuracy:   0.172
+Label based score:   0.507
+Micro-averaged metrics: 
+Precision:   0.561
+Recall:   0.692
+F_measure:   0.620
+Macro-averaged metrics: 
+Precision:   0.514
+Recall:   0.655
+F_measure:   0.572
+Weighted-average metrics: 
+Precision:   0.571
+Recall:   0.692
+F_measure:   0.622
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-5 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 2355782
+Feature extraction time: 26.4409999847 seconds
+Training time: 3.116s
+Test time:  0.197s
+
+Subset accuracy:   0.171
+Label based score:   0.505
+Micro-averaged metrics: 
+Precision:   0.554
+Recall:   0.696
+F_measure:   0.617
+Macro-averaged metrics: 
+Precision:   0.512
+Recall:   0.659
+F_measure:   0.573
+Weighted-average metrics: 
+Precision:   0.566
+Recall:   0.696
+F_measure:   0.621
+--------Top 10 f-measures: --------
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 1077927
+Feature extraction time: 14.8970000744 seconds
+Training time: 1.796s
+Test time:  0.190s
+
+Subset accuracy:   0.235
+Label based score:   0.529
+Micro-averaged metrics: 
+Precision:   0.653
+Recall:   0.620
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.620
+Recall:   0.576
+F_measure:   0.593
+Weighted-average metrics: 
+Precision:   0.651
+Recall:   0.620
+F_measure:   0.633
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 446898
+Feature extraction time: 8.04699993134 seconds
+Training time: 1.049s
+Test time:  0.155s
+
+Subset accuracy:   0.256
+Label based score:   0.527
+Micro-averaged metrics: 
+Precision:   0.734
+Recall:   0.562
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.715
+Recall:   0.519
+F_measure:   0.594
+Weighted-average metrics: 
+Precision:   0.727
+Recall:   0.562
+F_measure:   0.628
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 976882
+Feature extraction time: 12.0629999638 seconds
+Training time: 1.519s
+Test time:  0.158s
+
+Subset accuracy:   0.231
+Label based score:   0.530
+Micro-averaged metrics: 
+Precision:   0.651
+Recall:   0.622
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.607
+Recall:   0.592
+F_measure:   0.596
+Weighted-average metrics: 
+Precision:   0.652
+Recall:   0.622
+F_measure:   0.633
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-2 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : False
+Number of features: 438621
+Feature extraction time: 6.58899998665 seconds
+Training time: 0.736s
+Test time:  0.125s
+
+Subset accuracy:   0.251
+Label based score:   0.528
+Micro-averaged metrics: 
+Precision:   0.719
+Recall:   0.573
+F_measure:   0.637
+Macro-averaged metrics: 
+Precision:   0.700
+Recall:   0.526
+F_measure:   0.593
+Weighted-average metrics: 
+Precision:   0.713
+Recall:   0.573
+F_measure:   0.631
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : True
+remove punctuation : False
+stemming : True
+Number of features: 1108219
+Feature extraction time: 13.2100000381 seconds
+Training time: 1.701s
+Test time:  0.173s
+
+Subset accuracy:   0.233
+Label based score:   0.529
+Micro-averaged metrics: 
+Precision:   0.660
+Recall:   0.616
+F_measure:   0.637
+Macro-averaged metrics: 
+Precision:   0.621
+Recall:   0.573
+F_measure:   0.594
+Weighted-average metrics: 
+Precision:   0.658
+Recall:   0.616
+F_measure:   0.634
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : True
+remove domain words : True
+remove punctuation : False
+stemming : False
+Number of features: 1110851
+Feature extraction time: 13.6879999638 seconds
+Training time: 1.730s
+Test time:  0.174s
+
+Subset accuracy:   0.225
+Label based score:   0.528
+Micro-averaged metrics: 
+Precision:   0.648
+Recall:   0.627
+F_measure:   0.638
+Macro-averaged metrics: 
+Precision:   0.614
+Recall:   0.581
+F_measure:   0.595
+Weighted-average metrics: 
+Precision:   0.645
+Recall:   0.627
+F_measure:   0.634
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : True
+remove punctuation : True
+stemming : True
+Number of features: 979117
+Feature extraction time: 11.8650000095 seconds
+Training time: 1.481s
+Test time:  0.153s
+
+Subset accuracy:   0.239
+Label based score:   0.533
+Micro-averaged metrics: 
+Precision:   0.657
+Recall:   0.625
+F_measure:   0.641
+Macro-averaged metrics: 
+Precision:   0.616
+Recall:   0.588
+F_measure:   0.599
+Weighted-average metrics: 
+Precision:   0.655
+Recall:   0.625
+F_measure:   0.637
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 992760
+Feature extraction time: 12.378000021 seconds
+Training time: 1.506s
+Test time:  0.160s
+
+Subset accuracy:   0.240
+Label based score:   0.534
+Micro-averaged metrics: 
+Precision:   0.666
+Recall:   0.618
+F_measure:   0.641
+Macro-averaged metrics: 
+Precision:   0.634
+Recall:   0.581
+F_measure:   0.602
+Weighted-average metrics: 
+Precision:   0.665
+Recall:   0.618
+F_measure:   0.638
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : True
+lemmatization : True
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 990497
+Feature extraction time: 12.4359998703 seconds
+Training time: 1.549s
+Test time:  0.165s
+
+Subset accuracy:   0.244
+Label based score:   0.538
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.626
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.628
+Recall:   0.581
+F_measure:   0.602
+Weighted-average metrics: 
+Precision:   0.662
+Recall:   0.626
+F_measure:   0.642
+
+
+Model specs:
+Classifier: Perceptron
+Vectorizer: 1-3 grams
+Cleaning parameters: 
+remove numbers : False
+lemmatization : False
+remove domain words : False
+remove punctuation : True
+stemming : True
+Number of features: 1080132
+Feature extraction time: 12.9900000095 seconds
+Training time: 1.640s
+Test time:  0.168s
+
+Subset accuracy:   0.240
+Label based score:   0.537
+Micro-averaged metrics: 
+Precision:   0.664
+Recall:   0.627
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.636
+Recall:   0.586
+F_measure:   0.605
+Weighted-average metrics: 
+Precision:   0.661
+Recall:   0.627
+F_measure:   0.640

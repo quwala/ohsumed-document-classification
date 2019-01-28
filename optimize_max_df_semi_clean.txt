@@ -1,0 +1,92 @@
+--------best subset accuracy: --------
+
+
+Model specs:
+Vectorizer: max_df = 0.22
+Number of features: 1080120
+Feature extraction time: 13.3259999752 seconds
+Training time: 2.560s
+Test time:  0.200s
+
+Subset accuracy:   0.244
+Micro-averaged metrics: 
+Precision:   0.666
+Recall:   0.613
+F_measure:   0.638
+Macro-averaged metrics: 
+Precision:   0.619
+Recall:   0.577
+F_measure:   0.593
+Weighted-average metrics: 
+Precision:   0.664
+Recall:   0.613
+F_measure:   0.634
+--------best precision: --------
+
+
+Model specs:
+Vectorizer: max_df = 0.23
+Number of features: 1080123
+Feature extraction time: 13.2920000553 seconds
+Training time: 2.560s
+Test time:  0.200s
+
+Subset accuracy:   0.236
+Micro-averaged metrics: 
+Precision:   0.667
+Recall:   0.608
+F_measure:   0.636
+Macro-averaged metrics: 
+Precision:   0.621
+Recall:   0.575
+F_measure:   0.592
+Weighted-average metrics: 
+Precision:   0.664
+Recall:   0.608
+F_measure:   0.631
+--------best recall: --------
+
+
+Model specs:
+Vectorizer: max_df = 0.62
+Number of features: 1080132
+Feature extraction time: 14.3359999657 seconds
+Training time: 2.698s
+Test time:  0.283s
+
+Subset accuracy:   0.237
+Micro-averaged metrics: 
+Precision:   0.661
+Recall:   0.629
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.634
+Recall:   0.588
+F_measure:   0.605
+Weighted-average metrics: 
+Precision:   0.659
+Recall:   0.629
+F_measure:   0.640
+--------best f-measure: --------
+
+
+Model specs:
+Vectorizer: max_df = 0.62
+Number of features: 1080132
+Feature extraction time: 14.3359999657 seconds
+Training time: 2.698s
+Test time:  0.283s
+
+Subset accuracy:   0.237
+Micro-averaged metrics: 
+Precision:   0.661
+Recall:   0.629
+F_measure:   0.645
+Macro-averaged metrics: 
+Precision:   0.634
+Recall:   0.588
+F_measure:   0.605
+Weighted-average metrics: 
+Precision:   0.659
+Recall:   0.629
+F_measure:   0.640
